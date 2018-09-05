@@ -91,7 +91,7 @@ public class IndexManager {
 		// 5.关闭资源
 		indexReader.close();
 	}
-
+//你好
 	@Test
 	public void deleteIndex() throws IOException {
 		FSDirectory directory = FSDirectory.open(new File("d:\\index"));

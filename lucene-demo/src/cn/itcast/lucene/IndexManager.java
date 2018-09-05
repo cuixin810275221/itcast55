@@ -92,7 +92,7 @@ public class IndexManager {
 		indexReader.close();
 	}
 
-
+//关闭资源
 
 
 	@Test

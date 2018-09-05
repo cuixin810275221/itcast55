@@ -93,12 +93,6 @@ public class IndexManager {
 	}
 
 
-//你好222222
-
-//你好111111111
-
-
-//提交
 
 	@Test
 	public void deleteIndex() throws IOException {
